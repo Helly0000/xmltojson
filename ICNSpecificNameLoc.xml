@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+<Replace Tag='LOC_ROSETTA_XIANYANG' Text='Xianyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YASODHARAPURA' Text='Yaśodharapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MIKISIW_WACIHK' Text='Mikisiw-Wacîhk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEORABEOL' Text='Seorabeol' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PETEROA' Text='Peteroa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OCUILLAN' Text='Ocuillan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TLACHCO' Text='Tlachco' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CUAUHNAHUAC' Text='Cuauhnahuac' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XALAPAN' Text='Xalapan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CEMPOALATL' Text='Cempoalatl' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MINAS_DE_RIO_DE_CONTAS' Text='Minas do Rio de Contas' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SANTA_BARBARA_BRAZIL' Text='Santa Bárbara' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUELUZ_BRAZIL' Text='Queluz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FEIRA_DA_SANTANNA' Text='Feira da Sant’Anna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RIO_PARDO' Text='Rio Pardo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PURIFICACAO' Text='Purificação' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SANTO_ANTONIO_DA_BARRA' Text='Santo Antônio da Barra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PARAHYBA' Text='Parahyba' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SANTA_RITA_DO_TURVO' Text='Santa Rita do Turvo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RIO_DAS_EGUAS' Text='Rio das Eguas' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ASSEMBLEA' Text='Assembléa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_POMBA' Text='Pomba' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAMANDUA' Text='Tamanduá' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHENXIAN' Text='Chenxian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WUXIAN' Text='Wuxian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XIANGXIAN' Text='Xiangxian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YANGDI' Text='Yangdi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DANG' Text='Dang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LUXIAN' Text='Luxian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DONGYUAN' Text='Dongyuan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIDAO' Text='Didao' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FUSHI' Text='Fushi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JINYANG' Text='Jinyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PINGYANG' Text='Pingyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANYI' Text='Anyi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JIANGLING' Text='Jiangling' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TANXIAN' Text='Tanxian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHANWU' Text='Shanwu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WUZHONG' Text='Wuzhong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YIQU' Text='Yiqu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HUGUAN' Text='Huguan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHOUCHUN' Text='Shouchun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GUANGXIN' Text='Guangxin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YUNZHONG' Text='Yunzhong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JUYANG' Text='Juyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GUANGYANG' Text='Guangyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NANZHENG' Text='Nanzheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DAIXIAN' Text='Daixian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JIANGZHOU' Text='Jiangzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QIANZHONG' Text='Qianzhong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LINZI' Text='Linzi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JULU' Text='Julu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LECHENG' Text='Lecheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BOYANG' Text='Boyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JIUYUAN' Text='Jiuyuan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JIMO' Text='Jimo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GAOMI' Text='Gaomi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YANGLE' Text='Yangle' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DONGWU' Text='Dongwu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LINXIANG' Text='Linxiang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JUXIAN' Text='Juxian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FANYANG' Text='Fanyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZHU' Text='Zhu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PANYU' Text='Panyu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QINGYANG' Text='Qingyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LINCHEN' Text='Linchen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DONGYE' Text='Dongye' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PANIPWANIPIY' Text='Panipwânipiy' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAH_KWIWISTAHAW' Text='Kah-kwíwístaháw' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NATASHKUAN' Text='Natashkuan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEMISKAW' Text='Nemiskâw' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ATAWAPISKATW' Text='Âtawâpiskâtw' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MISI_PAWISTIK' Text='Misi-pâwistik' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KINOSEW_SAKAHIKAN' Text='Kinoséw-sákahikan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CISASIPI' Text='Cisâsîpî' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PIKOGAN' Text='Pikogan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CIMOWIWIN' Text='Cîmowîwin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OPITCIWAN' Text='Opitciwan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MANITO_SAKAHIKAN' Text='Manito-sâkahikan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NIKANIT' Text='Níkánít' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PESSAMIT' Text='Pessamit' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAPIMAKUSTUI' Text='Wâpimâkuštui' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OPASKWEYAHK' Text='Opâskwêyâhk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KINOSEWI_SIPIY' Text='Kinosêwi-sîpiy' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MASKOTE' Text='Maskoté' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UASHAU' Text='Uashau' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WIMINICI' Text='Wîminicî' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UNAMENSHIPIT' Text='Unamenshipit' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KESICIWAN' Text='Kêšîciwan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MIHKWASKIWAKAHK' Text='Mihkwaskíwakáhk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MISTAHI_SAKAHIKANIHK' Text='Mistahi-sákahikanihk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PIPIKISIS' Text='Pípíkisís' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WASKAHIKANIS' Text='Wâskâhîkaniš' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OCAPOWES' Text='Ocápowés' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAKIMES' Text='Sakimês' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PIMICIKAMAK' Text='Pimicikamāk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MISTAWASIS' Text='Mistawásis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MISTISINI' Text='Mistisinî' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PASKWAW' Text='Paskwâw' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KIHCI_WASKAHIKAN' Text='Kihci-waskahikan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UCEPUKUMU' Text='Ûcêpukumû' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAWAHKATOS' Text='Kawáhkatos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EKUANTSHIT' Text='Ekuantshit' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAPANUTAW' Text='Wâpanûtâw' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PAHKWAW_SAKAHIKANIHK' Text='Pahkwáw-sákahikanihk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MIKISIW' Text='Mikisiw' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OKINIS' Text='Okinís' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WASWANIPI' Text='Wâswânipî' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KA_AWASISIWIT' Text='Kâ-awâsisiwit' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WASKAHIKANIHK' Text='Wáskahikanihk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UTSHIMASSITS' Text='Utshimassits' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PARAITONION' Text='Paraitonion' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BERENICE' Text='Berenice' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CLEOPATRIS' Text='Cleopatris' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CROCODILOPOLIS' Text='Crocodilopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SYENE' Text='Syene' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BOLBITINE' Text='Bolbitine' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BUSIRIS' Text='Busiris' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AMMONIUM' Text='Ammonium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_APHRODITOPOLIS' Text='Aphroditopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAIS' Text='Sais' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALABASTRON' Text='Alabastron' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HIERAKONPOLIS' Text='Hierakonpolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PANOPOLIS' Text='Panopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_APOLLONOPOLIS_MAGNA' Text='Apollonopolis Magna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LYCOPOLIS' Text='Lycopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HEROONPOLIS' Text='Heroonpolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TENTYRIS' Text='Tentyris' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HERMONTHIS' Text='Hermonthis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OMBOS' Text='Ombos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LATOPOLIS' Text='Latopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANTAEOPOLIS' Text='Antaeopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_APOLLONOPOLIS_MIKRA' Text='Apollonopolis Mikra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIOSPOLIS_PARVA' Text='Diospolis Parva' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANKYRONOPOLIS' Text='Ankyronopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BICHVINTA' Text='Bichvinta' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANACOPIA' Text='Anacopia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SETI' Text='Seti' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARTANUJI' Text='Artanuji' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAUGARD' Text='Naugard' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TARAS' Text='Taras' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KERKYRA' Text='Kerkyra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BYZANTIUM' Text='Byzantium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHERSONESOS' Text='Chersonesos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KROTON' Text='Kroton' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOLKATTA' Text='Kolkatta' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PAUNDRAVARDHANAPURA' Text='Paundravardhanapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LAMPAKA' Text='Lampaka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAHAPUR' Text='Bahapur' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAIRAT' Text='Bairat' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BHABRU' Text='Bhabru' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GUJARRA' Text='Gujarra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RUPNATH' Text='Rupnath' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PANGURARIA' Text='Panguraria' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SOHGAURA' Text='Sohgaura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HUJUNG_GALUH' Text='Hujung Galuh' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DAHA' Text='Daha' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TUMAPEL' Text='Tumapel' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WENGKER' Text='Wengker' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MATAHUN' Text='Matahun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WIRABHUMI' Text='Wirabhumi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KABALAN' Text='Kabalan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KELING' Text='Keling' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PAJANG' Text='Pajang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MATARAM' Text='Mataram' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JAGARAGA' Text='Jagaraga' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PASAI' Text='Pasai' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOTA_RENTANG' Text='Kota Rentang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BADUNG' Text='Badung' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEMASEK' Text='Temasek' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAMPONG_AYER' Text='Kampong Ayer' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BUTON' Text='Buton' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HARIHARALAYA' Text='Hariharalaya' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAHENDRAPARVATA' Text='Mahendraparvata' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_O_KEO' Text='O Keo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VYADHAPURA' Text='Vyadhapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AMARENDRAPURA' Text='Amarendrapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LINGAPURA' Text='Lingapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_INDRAPURA' Text='Indrapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SINGHAPURA' Text='Singhapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VIMAYAPURA' Text='Vimayapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHRESTAPURA' Text='Shrestapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SURYAPARVATA' Text='Suryaparvata' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KRONG_CHAKTOMUK' Text='Krong Chaktomuk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MBANZA_MBWILA' Text='Mbanza Mbwila' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KABASA' Text='Kabasa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MOLEMBO' Text='Molembo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MBIZI' Text='Mbizi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LWANDA' Text='Lwanda' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KINCHASSA' Text='Kinchassa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JUNGWON' Text='Jungwon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BUGWON' Text='Bugwon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEOWON' Text='Seowon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GEUMGWAN' Text='Geumgwan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HANJU' Text='Hanju' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAKJU' Text='Sakju' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MYEONGJU' Text='Myeongju' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UNGJIN' Text='Ungjin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MUJU' Text='Muju' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YANGJU' Text='Yangju' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GANGJU' Text='Gangju' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YULJIN' Text='Yuljin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SONGAK' Text='Songak' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SUSEONG' Text='Suseong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GYEONSEONG' Text='Gyeonseong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAERYEONG' Text='Naeryeong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BIPUNG' Text='Bipung' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HWANGSAN' Text='Hwangsan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEUNGPYEONG' Text='Seungpyeong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GOCHANG' Text='Gochang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GAERYEONG' Text='Gaeryeong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MILSEONG' Text='Milseong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANCYRA' Text='Ancyra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_NEAR_ISSUS' Text='Alexandria near Issus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NISIBIS' Text='Nisibis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARBELA' Text='Arbela' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SUSA_SHUSH' Text='Susa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ASPADANA' Text='Aspadana' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RHAGAE' Text='Rhagae' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HECATOMPYLOS' Text='Hecatompylos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZADRAKARTA' Text='Zadrakarta' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SUSIA' Text='Susia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_IN_MARGIANA' Text='Alexandria in Margiana' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_IN_ARIA' Text='Alexandria in Aria' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_PROPHTHASIA' Text='Alexandria Prophthasia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_IN_ARACHOSIA' Text='Alexandria in Arachosia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_IN_OPIANIA' Text='Alexandria in Opiania' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_ON_THE_CAUCASUS' Text='Alexandria on the Caucasus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DRAPSAKA' Text='Drapsaka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BACTRA' Text='Bactra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAUTACA' Text='Nautaca' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MARACANDA' Text='Maracanda' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_ESCHATE' Text='Alexandria Eschate' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_ON_THE_OXOS' Text='Alexandra on the Oxos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_ON_THE_INDUS' Text='Alexandria on the Indus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PATALA' Text='Patala' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_RHAMBACIA' Text='Alexandria Rhambacia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PURA' Text='Pura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HARMOZEIA' Text='Harmozeia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALEXANDRIA_IN_SUSIANA' Text='Alexandria in Susiana' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEMUKO' Text='Temuko' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TUKAPEL' Text='Tukapel' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AINIL' Text='Ainil' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RANGKULWE' Text='Rangkülwe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PERKEN_KO' Text='Perken Ko' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PANGIPULLI' Text='Pangipülli' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TRALKA' Text='Tralka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KULA_KURA' Text='Küla Kura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MOLCHEN' Text='Molchen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEU_KEN' Text='Neu-ken' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAWUN_LEWFU' Text='Mawün Lewfü' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KURU_KO' Text='Kurü Ko' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VURILOCHE' Text='Vuriloche' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TRALKAWENU' Text='Tralkawenu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KULON' Text='Külon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FUTRA_KURA' Text='Fütra Kura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KARAWE' Text='Karawe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MACHIWE' Text='Machiwe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KALLVU_KO' Text='Kallvü Ko' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CONN_CO' Text='Conn-co' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LOLOL' Text='Lolol' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WECHURAWE' Text='Wechurawe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FUTRONWE' Text='Futronwe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DALKAWE' Text='Dalkawe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KUNU_KAPI' Text='Kunu Kapi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOCHA_MO' Text='Kocha-mo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KURA_REWE' Text='Kura Rewe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEMUKUYKUY' Text='Temukuykuy' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_REW_KO' Text='Rew-ko' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LONCO_MAYU' Text='Lonco Mayu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LLANQUYN_WE' Text='Llanquyn-we' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LEUFU' Text='Leufu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LIKAN_RAYEN' Text='Likan Rayen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHIWAYANTU' Text='Chiwayantü' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LEUVU_CO' Text='Leuvú Có' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KONA_RUPU' Text='Koña Rüpü' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QARAQORUM' Text='Qaraqorum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAYAN_TUMEN' Text='Bayan Tumen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ULANHAD' Text='Ulanhad' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IKH_KHUREE' Text='Ikh Khüree' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAYISINGTU' Text='Bayisingtu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KHANBALIQ' Text='Khanbaliq' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KONGHELLE' Text='Konghelle' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IQEN' Text='Iqen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PSELQET' Text='Pselqet' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ABOREPI' Text='Aborepi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SANAM' Text='Sanam' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KARMANA' Text='Karmana' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZRANKA' Text='Zranka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARACHOTI' Text='Arachoti' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PUSHKALAVATI' Text='Pushkalavati' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PHRADA' Text='Phrada' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARTAKOANA' Text='Artakoana' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ISPAHAN' Text='Ispahan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KURUSH_KATHA' Text='Kurush Katha' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RHAMBACIA' Text='Rhambacia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAZAKA' Text='Mazaka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HARAIVA' Text='Haraiva' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LWOW' Text='Lwów' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAMIENIEC_PODOLSKI' Text='Kamieniec Podolski' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SUCZAWA' Text='Suczawa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HALICZ' Text='Halicz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WARSZAWA' Text='Warszawa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SADOWA_WISZNIA' Text='Sądowa Wisznia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CANUSIUM' Text='Canusium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RHEGIUM' Text='Rhegium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_REATE' Text='Reate' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HISPELLUM' Text='Hispellum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PISAE' Text='Pisae' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARIMINIUM' Text='Ariminium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GENUA' Text='Genua' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MEDIOLANUM' Text='Mediolanum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LUGDUNUM' Text='Lugdunum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GORTYNA' Text='Gortyna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NARBO' Text='Narbo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COLONIA_AGRIPPINA' Text='Colonia Agrippina' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAESAREA_MAURITANIAE' Text='Caesarea Mauritaniae' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EMERITA_AUGUSTA' Text='Emerita Augusta' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TARRACO' Text='Tarraco' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CARALIS' Text='Caralis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BURDIGALA' Text='Burdigala' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BOSTRA' Text='Bostra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEGUSIO' Text='Segusio' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CORDUBA' Text='Corduba' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TINGIS' Text='Tingis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AUGUSTA_VINDELICORUM' Text='Augusta Vindelicorum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CEMENELUM' Text='Cemenelum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LONDINIUM' Text='Londinium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DUROCORTORUM' Text='Durocortorum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MOGONTIACUM' Text='Mogontiacum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TOMIS' Text='Tomis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OCTODURUS' Text='Octodurus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ATTALIA' Text='Attalia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_REVAL' Text='Reval' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VYATKA' Text='Vyatka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MYRIV' Text='Myriv' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_APRACAPURA' Text='Apracapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_THEODOSIA' Text='Theodosia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KWANONGOMA' Text='kwaNongoma' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EZIQWAQWENI' Text='Eziqwaqweni' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ETHEKWINI' Text='eThekwini' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UPHONGOLO' Text='uPhongolo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UMKHOMAZI' Text='uMkhomazi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PTOLEMAIS_IN_THEBAIDE' Text='Ptolemais in Thebaide' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IOL_CAESAREA' Text='Iol Caesarea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AGRIGENTUM' Text='Agrigentum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BERYTUS' Text='Berytus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_THYSDRUS' Text='Thysdrus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HERMOPOLIS_MAGNA' Text='Hermopolis Magna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANTINOOPOLIS' Text='Antinoopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PUTEOLI' Text='Puteoli' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PATAVIUM' Text='Patavium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IADERA' Text='Iadera' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SELEUCIA_AD_TIGRIM' Text='Seleucia ad Tigrim' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HIEROSOLYMA' Text='Hierosolyma' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NARBO_MARTIUS' Text='Narbo Martius' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TARENTUM' Text='Tarentum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BENEVENTUM' Text='Beneventum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRUNDISIUM' Text='Brundisium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEAPOLIS' Text='Neapolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARRETIUM' Text='Arretium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BONONIA' Text='Bononia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FLORENTIA' Text='Florentia' Language='en_US' />
+
+<Replace Tag='LOC_ROSETTA_SHERBURNE' Text='Sherburne' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TWYNHAM' Text='Twynham' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MEDESHAMSTEDE' Text='Medeshamstede' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AL_ASHMUNEIN' Text='Al Ashmunein' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AL_BAHNASA' Text='Al Bahnasa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HAMATH' Text='Hamath' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NOHADRA' Text='Nohadra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHUSHARRA' Text='Šušarra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HARBE' Text='Harbe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZIHUATLAN' Text='Zihuatlan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TOLLOHCAN' Text='Tollohcan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OXITIPAN' Text='Oxitipan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XIUHCOAC' Text='Xiuhcoac' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TOCHPAN' Text='Tochpan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TETZAPOTITLAN' Text='Tetzapotitlan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TOCHTEPEC' Text='Tochtepec' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XOCONOCHCO' Text='Xoconochco' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEPEYACAC' Text='Tepeyacac' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TLAPAN' Text='Tlapan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TLACHQUIYAUHCO' Text='Tlachquiyauhco' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COYOLAPAN' Text='Coyolapan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AYOTLAN' Text='Ayotlan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHIAUHTLAN' Text='Chiauhtlan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IXTLAHUACAN' Text='Ixtlahuacan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEMAZCALTEPEC' Text='Temazcaltepec' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEOTZAPOTLAN' Text='Teotzapotlan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TZOMPANCO' Text='Tzompanco' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHANGAN' Text='Changan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LONGBIAN' Text='Longbian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XINDU' Text='Xindu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GUZANG' Text='Guzang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PENGCHENG' Text='Pengcheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JIANYE' Text='Jianye' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LINQIU' Text='Linqiu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JI' Text='Ji' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XIANGPING' Text='Xiangping' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHANGGUI' Text='Shanggui' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIANCHI' Text='Dianchi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FULU' Text='Fulu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YE_WUYISHAN' Text='Ye' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WULEI' Text='Wulei' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DAIFANG' Text='Daifang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PINGRANG' Text='Pingrang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PINGYU' Text='Pingyu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PINGDING' Text='Pingding' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DONGDU' Text='Dongdu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WEIZHOU' Text='Weizhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BIANZHOU' Text='Bianzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YIZHOU' Text='Yizhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QIANZHOU' Text='Qianzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HONGZHOU' Text='Hongzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHANZHOU' Text='Shanzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LIANGZHOU' Text='Liangzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XIANGZHOU' Text='Xiangzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XIZHOU' Text='Xizhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SUIYE' Text='Suiye' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QIUCI' Text='Qiuci' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TONGCHENG' Text='Tongcheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XIANCHENG' Text='Xiancheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LIAODONGCHENG' Text='Liaodongcheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XINCHENG' Text='Xincheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SONGPING' Text='Songping' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TINGZHOU' Text='Tingzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HETIAN' Text='Hetian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHULE' Text='Shule' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YANQI' Text='Yanqi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHENDU' Text='Shendu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PUZHOU' Text='Puzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BIANJING' Text='Bianjing' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GUIZHOU' Text='Guizhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZHENDING' Text='Zhending' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHOUZHOU' Text='Shouzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JIANGNING' Text='Jiangning' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TANZHOU' Text='Tanzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHENLIU' Text='Chenliu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XIJING' Text='Xijing' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KUIZHOU' Text='Kuizhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XINGYUAN' Text='Xingyuan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QINZHOU' Text='Qinzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JINGZHAO' Text='Jingzhao' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZIZHOU' Text='Zizhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DAXING' Text='Daxing' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QINGHE' Text='Qinghe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GUIXIANG' Text='Guixiang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LUOZHOU' Text='Luozhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YINGCHUAN' Text='Yingchuan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZHENXIAN' Text='Zhenxian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HEJIAN' Text='Hejian' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GUANCHENG' Text='Guancheng' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HEDONG' Text='Hedong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YIDU' Text='Yidu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DINGTAO' Text='Dingtao' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PINGYUAN' Text='Pingyuan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HENEI' Text='Henei' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HUAIYANG' Text='Huaiyang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHANGDANG' Text='Shangdang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WUCHANG' Text='Wuchang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIHUA' Text='Dihua' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KULUN' Text='Kulun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHENGJING' Text='Shengjing' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAIWAN_FU' Text='Taiwan-fu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANGOSTURA' Text='Angostura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YAMU' Text='Yamu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TJARU' Text='Tjaru' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PER_SOPDU' Text='Per-Sopdu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEMABEHDET' Text='Semabehdet' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAZRET' Text='Nazret' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ADULIS' Text='Adulis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EUDAEMON' Text='Eudaemon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ADDI_DAHNO' Text='Addi Dahno' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ADDI_GALAMO' Text='Addi Galamo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HIRMATA' Text='Hirmata' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VIIPURI' Text='Viipuri' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PIETERSAARI' Text='Pietersaari' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHALONS_SUR_MARNE' Text='Châlons-sur-Marne' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GERGOVIA' Text='Gergowia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BIBRACTE' Text='Bibracte' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AVARICON' Text='Awaricon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALESIA' Text='Alesia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEMOSSOS' Text='Nemossos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NOVIODIUNUM' Text='Nowiodunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CENABUM' Text='Cenabon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AUTRICUM' Text='Autricon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LUGUDUNON' Text='Lugudunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LUTETIA' Text='Lutetia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARGENTOMAGUS' Text='Argantomagos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TOLOSA' Text='Tolosa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRATUSPANTION' Text='Bratuspantion' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VESONTIO' Text='Wesontio' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LEMONUM' Text='Limonon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AGEDINCUM' Text='Agedincon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANDEMATUNNUM' Text='Andematunnum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TURONES' Text='Turones' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEGODUNUM' Text='Segodunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ADSILANUM' Text='Adsilanum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANDERITUM' Text='Anderitum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CONDEVINCUM' Text='Condewincon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GORGOBINA' Text='Gorgobina' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DUROCORTERON' Text='Durocorteron' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MATISCO' Text='Matisco' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIVONA' Text='Dewona' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DARANTASIA' Text='Darantasia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CABILLONUM' Text='Cabillonum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VELLAUNODUNUM' Text='Wellaunodunpm' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NOEODUNUM' Text='Noeodunum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CULARO' Text='Cularo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ROTOMAGUS' Text='Ratumacos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAGETOBRIA' Text='Magetobria' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DECETIA' Text='Decetia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VASIO' Text='Wasio' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRESLAU' Text='Breslau' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STETTIN' Text='Stettin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRUNN' Text='Brünn' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_POSEN' Text='Posen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HINDENBURG' Text='Hindenburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OSTRAU' Text='Ostrau' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GLEIWITZ' Text='Gleiwitz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PILSEN' Text='Pilsen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WESERMUNDE' Text='Wesermünde' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BEUTHEN' Text='Beuthen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ELBING' Text='Elbing' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DANZIG' Text='Danzig' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LIEGNITZ' Text='Liegnitz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GLOGAU' Text='Glogau' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEISSE' Text='Neisse' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KUSTRIN' Text='Küstrin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MARIENBURG' Text='Marienburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STOLP' Text='Stolp' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OPPELN' Text='Oppeln' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PEUKELAOTIS' Text='Peukelaotis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DEMETRIAS_IN_PATALENE' Text='Demetrias in Patalene' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BARYGAZA' Text='Barygaza' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SARAOSTUS' Text='Saraostus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EUCRATIDEIA' Text='Eucratideia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AORNOS' Text='Aornos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RAJAGRIHA' Text='Rajagriha' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHAMPA' Text='Champa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ORUGALLU' Text='Orugallu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SABBINADU' Text='Sabbinadu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MANKAL' Text='Mankal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DOWN' Text='Down' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CRUACHAN' Text='Cruachan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EZION_GEBER' Text='Ezion-Geber' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BEROTHAI' Text='Berothai' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AIJALON' Text='Aijalon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LEBO_HAMATH' Text='Lebo-hamath' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEBASTE' Text='Sebaste' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GADARA' Text='Gadara' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PHASAELIS' Text='Phasaelis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PORTICO_DI_ROMAGNA' Text='Portico di Romagna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAN_BENEDETTO_IN_ALPE' Text='San Benedetto in Alpe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ROSELLE' Text='Roselle' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VALVA' Text='Valva' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MOMOYAMA' Text='Momoyama' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HEIJO_KYO' Text='Heijō-kyō' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KUNI_KYO' Text='Kuni-kyō' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NANIWA_KYO' Text='Naniwa-kyō' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KERAK' Text='Kerak' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARIMATHEA' Text='Arimathea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IBELIN' Text='Ibelin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MIRABEL' Text='Mirabel' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAIPHAS' Text='Caiphas' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAESAREA' Text='Caesarea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BESSAN' Text='Bessan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BLANCHEGARDE' Text='Blanchegarde' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAYMONT' Text='Caymont' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MONTGISARD' Text='Montgisard' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CASTEL_NEUF' Text='Castel Neuf' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MONTREAL_SHOUBAK' Text='Montreal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LYDDA' Text='Lydda' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DARUM' Text='Darum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HANSEONG' Text='Hanseong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHEOLSEONG' Text='Cheolseong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GANGGYE' Text='Ganggye' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BEROIA' Text='Beroia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PHILIPPOPOLIS' Text='Philippopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KA_BA' Text='Ka-ba' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WALATA' Text='Walata' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KIRIKIRIROA' Text='Kirikiriroa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RAHUI_POKEKA' Text='Rahui-Pōkeka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WHAINGAROA' Text='Whaingaroa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KEMURETI' Text='Kemureti' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PARAWAI' Text='Pārāwai' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAURANGA_MOANA' Text='Tauranga-moana' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ROTORUA_NUI_A_KAHU' Text='Rotorua-nui-a-Kahu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAMAKI_MAKAU_RAU' Text='Tāmaki-makau-rau' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAUPO_NUI_A_TIA' Text='Taupō-nui-a-Tia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WHAKATANE' Text='Whakatāne' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OPEPE' Text='Ōpepe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OPOTIKI' Text='Ōpōtiki' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TE_WAIROA' Text='Te Wairoa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AHURIRI' Text='Ahuriri' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HAWERA' Text='Hāwera' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HERETAUNGA' Text='Heretaunga' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WHANGAREI' Text='Whangārei' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TURANGA_NUI_A_KIWA' Text='Tūranga-nui-a-Kiwa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TE_HOKIANGA_NUI_A_KUPE' Text='Te Hokianga-nui-a-Kupe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KORORAREKA' Text='Kororāreka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAMAKI_NUI_A_RUA' Text='Tāmaki-nui-a-Rua' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TE_PAPA_I_OEA' Text='Te Papa-i-oea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAITOKO' Text='Taitoko' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OTAKI' Text='Ōtaki' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WHAKAORIORI' Text='Whakaoriori' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TE_WHANGANUI_A_TARA' Text='Te Whanganui-a-Tara' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NIDAROS' Text='Nidaros' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GOR' Text='Gor' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SPAHAN' Text='Spahan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VAHMAN_ARDASHIR' Text='Vahman-Ardashir' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PARTAV' Text='Partav' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VEH_ARDASHIR' Text='Veh-Ardashir' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DASTAGIRD' Text='Dastagird' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PEROZ_SHAPUR' Text='Peroz-Shapur' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BOKHT_ARDASHIR' Text='Bokht-Ardashir' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEWKART' Text='Newkart' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARRAJAN' Text='Arrajan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NUEVA_CACERES' Text='Nueva Cáceres' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NUEVA_SEGOVIA' Text='Nueva Segovia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TONDO' Text='Tondo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAGAYAN_DE_MISAMIS' Text='Cagayan de Misamis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAPIZ' Text='Capiz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KUTA_WATO' Text='Kuta Wato' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SUGBU' Text='Sugbu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ASTANA_PUTIH' Text='Astana Putih' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAYSAPAN' Text='Maysapan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BINALATONGAN' Text='Binalatongan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BEE_GAN' Text='Bee Gan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KALILAYAN' Text='Kalilayan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IRONG_IRONG' Text='Irong-Irong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LIHAN' Text='Lihan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UNAYAN' Text='Unayan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MEYCATMON' Text='Meycatmon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MADYANOS' Text='Madyanos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BANUBU' Text='Banubu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SIALO' Text='Sialo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PAILA' Text='Paila' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CALATONDANGAN' Text='Calatondangan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BINWANGAN' Text='Binwangan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DONGOS' Text='Dongos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MALANDONG' Text='Malandong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIBAG' Text='Dibag' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PAINA' Text='Paina' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PINACAUASAN' Text='Pinacauasan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YAMAGTOGON' Text='Yamagtogon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DILAO' Text='Dilao' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAYABAO' Text='Bayabao' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PANDACAN' Text='Pandacan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUIAPO' Text='Quiapo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAMPALOC' Text='Sampaloc' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MITAWA' Text='Mitawa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KRZEMIENIEC' Text='Krzemieniec' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NOWOGRODEK' Text='Nowogródek' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRACLAW' Text='Bracław' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRZESC_LITEWSKI' Text='Brześć Litewski' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WITEBSK' Text='Witebsk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MSCISLAW' Text='Mścisław' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_POLOCK' Text='Połock' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WORNIE' Text='Wornie' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DYNEBURG' Text='Dyneburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AUGUSTA_TREVERORUM' Text='Augusta Treverorum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SERDICA' Text='Serdica' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SIRMIUM' Text='Sirmium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HADRIANOPOLIS' Text='Hadrianopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TRAJANOPOLIS' Text='Trajanopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEBASTEA' Text='Sebastea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_THEODOSIOPOLIS' Text='Theodosiopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DYRRHACHIUM' Text='Dyrrhachium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CLAUDIOPOLIS' Text='Claudiopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ODESSUS' Text='Odessus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ICONIUM' Text='Iconium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HERACLEA' Text='Heraclea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LAODICEA' Text='Laodicea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHERSON' Text='Cherson' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PARAETONIUM' Text='Paraetonium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VIENNA_VIENNE' Text='Vienna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAESARAUGUSTA' Text='Caesaraugusta' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AMASEIA' Text='Amaseia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AQUAE_SEXTIAE' Text='Aquae Sextiae' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEOCAESAREA' Text='Neocaesarea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DOCLEA' Text='Doclea' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CONSTANTIA' Text='Constantia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAESAREA_IN_CAPPADOCIA' Text='Caesarea in Cappadocia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SCYTHOPOLIS' Text='Scythopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PERGE' Text='Perge' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CARTHAGO_NOVA' Text='Carthago Nova' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GANGRA' Text='Gangra' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EMESA' Text='Emesa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ASCULUM' Text='Asculum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MALACA' Text='Malaca' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MARCIANOPOLIS' Text='Marcianopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAVARIA' Text='Savaria' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SPOLETUM' Text='Spoletum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SITIFIS' Text='Sitifis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SISCIA' Text='Siscia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AVARICUM' Text='Avaricum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EBRODUNUM' Text='Ebrodunum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CORINIUM' Text='Corinium' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARGENTORATUM' Text='Argentoratum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HISPALIS' Text='Hispalis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRACARA' Text='Bracara' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IUVAVUM' Text='Iuvavum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SOPIANAE' Text='Sopianae' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TURONUM' Text='Turonum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CURIA' Text='Curia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ELUSA' Text='Elusa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LINDUM' Text='Lindum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SENONES' Text='Senones' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SELEUCIA_ISAURIA' Text='Seleucia Isauria' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SOZUSA' Text='Sozusa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CONSTANTINA' Text='Constantina' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MELITENE' Text='Melitene' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SCUPI' Text='Scupi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NOVGOROD_SEVERSKIY' Text='Novgorod-Severskiy' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PEREYASLAVL_RYAZANSKY' Text='Pereyaslavl-Ryazansky' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SIMBIRSK' Text='Simbirsk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MALYKOVKA' Text='Malykovka' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YEKATERINOSLAV' Text='Yekaterinoslav' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NIKOLAYEV' Text='Nikolayev' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOVNO' Text='Kovno' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YEKATERINODAR' Text='Yekaterinodar' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LIBAVA' Text='Libava' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YELISAVETGRAD' Text='Yelisavetgrad' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TSARITSYN' Text='Tsaritsyn' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BERDICHEV' Text='Berdichev' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KALININGRAD' Text='Kaliningrad' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MARTABAN' Text='Martaban' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_THAWAI' Text='Thawai' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MARIT' Text='Marit' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LENINGRAD' Text='Leningrad' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GORKY' Text='Gorky' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STALINO' Text='Stalino' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STALINGRAD' Text='Stalingrad' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SVERDLOVSK' Text='Sverdlovsk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KUYBYSHEV' Text='Kuybyshev' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MOLOTOV' Text='Molotov' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALMA_ATA' Text='Alma-Ata' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KALININ' Text='Kalinin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VOROSHILOVGRAD' Text='Voroshilovgrad' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HUAMANGA' Text='Huamanga' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GOKANNA' Text='Gokanna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAHATITTHA' Text='Mahatittha' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KALYANI' Text='Kalyani' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAGAMPURA' Text='Magampura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PARAKRAMAPURA' Text='Parakramapura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAHATHOTA' Text='Mahathota' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DAMBANDENIYA' Text='Dambandeniya' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ABO' Text='Åbo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NOTEBORG' Text='Nöteborg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAVASTEHUS' Text='Tavastehus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HELSINGFORS' Text='Helsingfors' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ULEABORG' Text='Uleåborg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BJORNEBORG' Text='Björneborg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VASA' Text='Vasa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COLONIA_COMMODIANA' Text='Colonia Commodiana' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RENDLESHAM' Text='Rendlesham' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MESA' Text='Mesa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RALEIGH' Text='Raleigh' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COLORADO_SPRINGS' Text='Colorado Springs' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARLINGTON' Text='Arlington' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PRESSBURG' Text='Preßburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BUDWEIS' Text='Budweis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OFEN' Text='Ofen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SCHEMNITZ' Text='Schemnitz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KETSCHKEMET' Text='Ketschkemet' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEUMARKT_AN_DER_THEISS' Text='Neumarkt an der Theiß' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KLAGENFURT' Text='Klagenfurt' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STEYR' Text='Steyr' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_REICHENBERG' Text='Reichenberg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SCHWAZ' Text='Schwaz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ODENBURG' Text='Ödenburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STUHLWEISENBERG' Text='Stuhlweißenburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KLAUSENBURG' Text='Klausenburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GORLITZ_GORLICE' Text='Görlitz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RAAB' Text='Raab' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MISCHKOLZ' Text='Mischkolz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOMORN' Text='Komorn' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OLMUTZ' Text='Olmütz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LAIBACH' Text='Laibach' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KUTTENBERG' Text='Kuttenberg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DORNBIRN' Text='Dornbirn' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EISENSTADT' Text='Eisenstadt' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KREMS' Text='Krems' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WIENER_NEUSTADT' Text='Wiener Neustadt' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TSCHABE' Text='Tschabe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GENGES' Text='Gengeß' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JASBRING' Text='Jaßbring' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAKOWA' Text='Makowa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_POPPA' Text='Poppa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MIAWA' Text='Miawa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VINA_DEL_MAR' Text='Viña del Mar' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LOTA' Text='Lota' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUILLOTA' Text='Quillota' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CORONEL' Text='Coronel' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LIMACHE' Text='Limache' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OVALLE' Text='Ovalle' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAN_FELIPE' Text='San Felipe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHUQUICAMATA' Text='Chuquicamata' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAUQUENES' Text='Cauquenes' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUILPUE' Text='Quilpué' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TOME' Text='Tomé' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LA_CALERA' Text='La Calera' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUIRIHUE' Text='Quirihue' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ILLAPEL' Text='Illapel' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COLCURA' Text='Colcura' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FLORIDA' Text='Florida' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RERE' Text='Rere' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COELEMU' Text='Coelemu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FREIRINA' Text='Freirina' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LA_LIGUA' Text='La Ligua' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PARRAL' Text='Parral' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TALTAL' Text='Taltal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RENGO' Text='Rengo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CANETE' Text='Cañete' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VILLARRICA' Text='Villarrica' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HUALQUI' Text='Hualqui' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FREDERIKSBERG' Text='Frederiksberg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GENTOFTE' Text='Gentofte' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HERNING' Text='Herning' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SKIVE' Text='Skive' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SIGLUFJORDUR' Text='Siglufjörður' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ESKIFJORDUR' Text='Eskifjörður' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OLAFSFJORDUR' Text='Ólafsfjörður' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PATREKSFJORDUR' Text='Patreksfjörður' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BOLUNGARVIK' Text='Bolungarvík' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EYRARBAKKI' Text='Eyrarbakki' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FASKRUDSFJORDUR' Text='Fáskrúðsfjörður' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STOKKSEYRI' Text='Stokkseyri' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TIKAL' Text='Tikal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UAXACTUN' Text='Uaxactun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAKUM' Text='Nakum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YAXHA' Text='Yaxha' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CIVAL' Text='Cival' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAAAL' Text='Sa’aal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HOLMUL' Text='Holmul' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_XUNANTUNICH' Text='Xunantunich' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NOJPETEN' Text='Nojpeten' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EL_TINTAL' Text='El Tintal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAKBE' Text='Nakbe' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAACHTUN' Text='Naachtun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAN' Text='El Mirador' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OXWITZA' Text='Oxwitza’' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IXKUN' Text='Ixkun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAKA' Text='Waka’' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEIBAL' Text='Seibal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CALAKMUL' Text='Calakmul' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DOS_PILAS' Text='Dos Pilas' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LAMANAI' Text='Lamanai' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BEEK' Text='Beek' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NIM_LI_PUNIT' Text='Nim Li Punit' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CANCUEN' Text='Cancuén' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CUELLO' Text='Cuello' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALTUN_HA' Text='Altun Ha' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BECAN' Text='Becan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YAXCHILAN' Text='Yaxchilan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BONAMPAK' Text='Bonampak' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YOKIB' Text='Yokib' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CERROS' Text='Cerros' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUIRIGUA' Text='Quiriguá' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAJXAKLAJUN' Text='Wajxaklajun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TONINA' Text='Toniná' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COPAN' Text='Copán' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EDZNA' Text='Edzna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZACULEU' Text='Zaculeu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUMARKAJ' Text='Q’umarkaj' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAMINALJUYU' Text='Kaminaljuyu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IXIMCHE' Text='Iximche' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAYIL' Text='Sayil' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KABAH' Text='Kabah' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HAIL_NA' Text='Hail Na' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EL_BAUL' Text='El Baúl' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAKALIK_ABAJ' Text='Takalik Abaj' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAZUMAL' Text='Tazumal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CIHUATAN' Text='Cihuatán' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UXMAL' Text='Uxmal' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OXKINTOK' Text='Oxkintok' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHUNCHUCMIL' Text='Chunchucmil' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAYAPAN' Text='Mayapan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COMALCALCO' Text='Comalcalco' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHICHEN_ITZA' Text='Chichen Itza' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TULUM' Text='Tulum' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COBA' Text='Coba' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DZIBILCHALTUN' Text='Dzibilchaltun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOMCHEN' Text='Komchen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAAN_KUN' Text='Kaan Kun' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FRESNILLO' Text='Fresnillo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TACUBAYA' Text='Tacubaya' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CELAYA' Text='Celaya' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GOMEZ_PALACIO' Text='Gómez Palacio' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IRAPUATO' Text='Irapuato' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CIUDAD_GUZMAN' Text='Ciudad Guzmán' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ACAMBARO' Text='Acámbaro' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CIUDAD_MADERO' Text='Ciudad Madero' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HIDALGO_DEL_PARRAL' Text='Hidalgo del Parral' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GENERAL_SANTOS' Text='General Santos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LAPU_LAPU' Text='Lapu-Lapu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BINANGONAN' Text='Binangonan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAINTA' Text='Cainta' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAN_JUAN_DEL_MONTE' Text='San Juan del Monte' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SOSNOWIEC' Text='Sosnowiec' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GDYNIA' Text='Gdynia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GRODNO' Text='Grodno' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHORZOW' Text='Chorzów' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KIELCE' Text='Kielce' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GRUDZIADZ' Text='Grudziądz' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TORUN' Text='Toruń' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MOGILEV' Text='Mogilev' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BEDZIN' Text='Będzin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PABIANICE' Text='Pabianice' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PILA_POLAND' Text='Piła' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ROTHESAY' Text='Rothesay' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DINGWALL' Text='Dingwall' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KIRKCUDBRIGHT' Text='Kirkcudbright' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KARAGANDA' Text='Karaganda' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MARIUPOL' Text='Mariupol' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PROKOPYEVSK' Text='Prokopyevsk' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_REUS' Text='Reus' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RONDA' Text='Ronda' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PUERTO_DE_SANTA_MARIA' Text='El Puerto de Santa María' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TINEO' Text='Tineo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VELEZ_MALAGA' Text='Vélez-Málaga' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LE_LOCLE' Text='Le Locle' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WADENSWIL' Text='Wädenswil' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VEVEY' Text='Vevey' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HORGEN' Text='Horgen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STAFA' Text='Stäfa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BURGDORF' Text='Burgdorf' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BOLLIGEN' Text='Bolligen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MORGES' Text='Morges' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STEFFISBURG' Text='Steffisburg' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WORB' Text='Worb' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MEILEN' Text='Meilen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAMAROBRIVA' Text='Samarobriva' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NGAMOTU' Text='Ngāmotu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BARMEN' Text='Barmen' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ELBERFELD' Text='Elberfeld' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAIMA' Text='Baima' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YANGXIN'   Text='Yangxin'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ELBERFELD' Text='Elberfeld' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAMULODUNON' Text='Camulodunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DUROUERNON' Text='Durouernon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LINDON' Text='Lindon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIN_GUARIE' Text='Din Guarie' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TIGGUO_COBAUC' Text='Tigguo Cobauc' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CORIA' Text='Coria' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DUBRAS' Text='Dubras' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TREWIGAN' Text='Trewigan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DERVENTIO' Text='Derventio' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CEDRID' Text='Cedrid' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LOWONIDONJON' Text='Lowonidonjon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PENCEAT' Text='Penceat' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LETOCAITON' Text='Letocaiton' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MACTAN' Text='Mactan' Language='en_US' />
+
+
+
+<Replace Tag='LOC_ROSETTA_QUSQU'   Text='Qusqu'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BUDA'   Text='Buda'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PEST'   Text='Pest'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_POSZONY'   Text='Poszony'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOLOZSVAR'   Text='Kolozsvár'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAGYSZEBEN'   Text='Nagyszeben'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRASSO'   Text='Brassó'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAGYBANYA'   Text='Nagybánya'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KASSA'   Text='Kassa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAGYVARAD'   Text='Nagyvárad'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ESZEK'   Text='Eszék'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZAGRAB'   Text='Zágráb'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BESZTERCE'   Text='Beszterce'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GYULAFEHERVAR'   Text='Gyulafehérvár'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAROSVASARHELY'   Text='Marosvásárhely'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BESZTERCEBANYA'   Text='Besztercebánya'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEMESVAR'   Text='Temesvár'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EPERJES'   Text='Eperjes'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NYITRA'   Text='Nyitra'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TORDA'   Text='Torda'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAGYBECSKEREK'   Text='Nagybecskerek'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VARASD'   Text='Varasd'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_POZSEGA'   Text='Pozsega'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LUGOS'   Text='Lugos'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZOMBOR'   Text='Zombor'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TRENCSEN'   Text='Trencsén'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NAGYKAROLY'   Text='Nagykároly'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LOCSE'   Text='Lőcse'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZILAH'   Text='Zilah'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UNGVAR'   Text='Ungvár'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WHAKATU'   Text='Whakatū'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAIHARAKEKE'   Text='Waiharakeke'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAWATIRI'   Text='Kawatiri'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KAIKOURA'   Text='Kaikōura'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAWHERA'   Text='Māwhera'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OTAUTAHI'   Text='Ōtautahi'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TE_TIHI_O_MARU'   Text='Te Tihi-o-Maru'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TE_OHA_A_MARU'   Text='Te Oha-a-Maru'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_OTEPOTI'   Text='Ōtepoti'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAIHOPAI'   Text='Waihōpai'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MOTUPOHUE'   Text='Motupōhue'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ULLANTAYTAMPU'   Text='Ullantaytampu'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WILLKAWAMAN'   Text='Willkawaman'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PACHAKAMAQ'   Text='Pachakamaq'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KASHAMARKA'   Text='Kashamarka'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_QUCHAPANPA'   Text='Quchapanpa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAMANQA'   Text='Wamanqa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TUMIPAMPA'   Text='Tumipampa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RUSASPATA'   Text='Rusaspata'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARIKA'   Text='Arika'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARIQIPA'   Text='Ariqipa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WILLKAPANPA'   Text='Willkapanpa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PIWRA'   Text='Piwra'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_INKAPIRKA'   Text='Inkapirka'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HATUNQULLA'   Text='Hatunqulla'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PISAQ'   Text='P’isaq'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAMACHUKU'   Text='Wamachuku'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WANUKU_PAMPA'   Text='Wanuku Pampa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHUQIYAPU'   Text='Chuqiyapu'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IKA'   Text='Ika'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_INKA_WASI'   Text='Inka Wasi'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WARAS'   Text='Waras'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NASKA'   Text='Naska'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MUQIWA'   Text='Muqiwa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WARI'   Text='Wari'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MUYUPAMPA'   Text='Muyupampa'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KITU'   Text='Kitu'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PAWQARTAMPU'   Text='Pawqartampu'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AYAWIRI'   Text='Ayawiri'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHACHAPUYAS'   Text='Chachapuyas'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SHAWSHA'   Text='Shawsha'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KASMA'   Text='Kasma'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TUMPIS'   Text='Tumpis'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHANKAY'   Text='Chankay'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JENNE'   Text='Jenne'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KEXHOLM'   Text='Kexholm'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KEFE'   Text='Kefe'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AKKERMAN'   Text='Akkerman'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AMID'   Text='Diyar-ı Bekr'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AYNTAB'   Text='Ayıntap'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RAKKA'   Text='Rakka'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BEROT'   Text='Berot'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ATTIQ'   Text='’Attiq'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DRMT'   Text='Drmt'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MRT'   Text='Mrt'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WYT'   Text='Wy’t'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SBRTN'   Text='Sbrt’n'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LPQY'   Text='Lpqy'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PWN'   Text='‘Pwn'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YKSM'   Text='Yksm'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PWN_AKRA'   Text='‘Pwn Akra'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IOL'   Text='Iol'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TZIRTA'   Text='Krtn'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MTW'   Text='Mtw'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KTY'   Text='Kty'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZIZ'   Text='Ziz'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RSPN'   Text='Ršpn'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_STPSR'   Text='Štpšr'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAKAPES'   Text='Takapes'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IRQATA'   Text='Irqata'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RAMITHA'   Text='Ramitha'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SKS'   Text='Sks'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MALAKA'   Text='Malaka'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KARALY'   Text='Karaly'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MENINX'   Text='Meninx'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ANN'   Text='’Ann'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SLKY'   Text='Slky'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_IBOSSIM'   Text='Ibossim'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ABDRT'   Text='’Abdrt'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TYNG'   Text='Tyng'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LKS'   Text='Lks'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GADIR'   Text='Gadir'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ONOBA'   Text='Onoba'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TPTN'   Text='Tp‘tn'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WAGA'   Text='Waga'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KRT'   Text='K’rt'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LEPRIPTZA'   Text='Lepriptza'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TARQON'   Text='Tarqon'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SICCA'   Text='Sicca'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAAL_SAPHON'   Text='Ba’al Saphon'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SALAT'   Text='Šalat'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MAGO'   Text='Mago'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ASPIS'   Text='Aspis'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_YRNM'   Text='Yrnm'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AFEKA'   Text='Afeka'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARAMBYS'   Text='Arambys'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PHOENICUS'   Text='Phoenicus'   Language='en_US' />
+
+<Replace Tag='LOC_ROSETTA_SHELFAK'   Text='Shelfak'   Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BISHOFTU_XSCX_DEBRE_ZEYIT'   Text='Debre Zeyit'   Language='en_US' />
+
+<!--Maya-->
+<Replace Tag='LOC_ROSETTA_CALKINI_XSCX_CIVILIZATION_MAYA'     Text='Kal K’iin'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TORTUGA_XSCX_CIVILIZATION_MAYA'     Text='Aak'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_BONAMPAK_XSCX_CIVILIZATION_MAYA'     Text='Ak’e'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_RIO_BEC_XSCX_CIVILIZATION_MAYA'     Text='Beek'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_BECAN_XSCX_CIVILIZATION_MAYA'     Text='Bekan'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CHETUMAL_XSCX_CIVILIZATION_MAYA'     Text='Ch’aak Temal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CHUNCHUCMIL_XSCX_CIVILIZATION_MAYA'     Text='Ch’en Chun Chukum'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CHICHEN_ITZA_XSCX_CIVILIZATION_MAYA'     Text='Chi’ch’èen Ìitsha’'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CHINKULTIC_XSCX_CIVILIZATION_MAYA'     Text='Chinkultik'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_JAINA_ISLAND_XSCX_CIVILIZATION_MAYA'     Text='Hail Na'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_COMALCALCO_XSCX_CIVILIZATION_MAYA'     Text='Hoi Chan'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_HOLMUL_XSCX_CIVILIZATION_MAYA'     Text='Holmul'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_BELIZE_CITY_XSCX_CIVILIZATION_MAYA'     Text='Holzuz'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_IZAMAL_XSCX_CIVILIZATION_MAYA'     Text='Itzmal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_EDZNA_XSCX_CIVILIZATION_MAYA'     Text='Itzna'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_IXIMCHE_XSCX_CIVILIZATION_MAYA'     Text='Iximche'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_IXKUN_XSCX_CIVILIZATION_MAYA'     Text='Ixkun'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_SAN_CRISTOBAL_DE_LAS_CASAS_XSCX_CIVILIZATION_MAYA'     Text='Job’el'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_UCANAL_XSCX_CIVILIZATION_MAYA'     Text='K’anwitznal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CANCUN_XSCX_CIVILIZATION_MAYA'     Text='Kaan Kun'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CAMPECHE_XSCX_CIVILIZATION_MAYA'     Text='Kaan Peech'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_KABAH_XSCX_CIVILIZATION_MAYA'     Text='Kabah'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_KAMINALJUYU_XSCX_CIVILIZATION_MAYA'     Text='Kaminaljuyu'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_COBA_XSCX_CIVILIZATION_MAYA'     Text='Kobha'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_KOMCHEN_XSCX_CIVILIZATION_MAYA'     Text='Komchen'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TAKALIK_ABAJ_XSCX_CIVILIZATION_MAYA'     Text='Kooja'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_GUATEMALA_CITY_XSCX_CIVILIZATION_MAYA'     Text='Kujatemalja’'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_PALENQUE_XSCX_CIVILIZATION_MAYA'     Text='Lakamha'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_LAMANAI_XSCX_CIVILIZATION_MAYA'     Text='Lam’an’ain'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_MAYAPAN_XSCX_CIVILIZATION_MAYA'     Text='Màayapáan'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_NAACHTUN_XSCX_CIVILIZATION_MAYA'     Text='Masuul'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_DOS_PILAS_XSCX_CIVILIZATION_MAYA'     Text='Mutal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_NAKUM_XSCX_CIVILIZATION_MAYA'     Text='Nakum'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_FLORES_XSCX_CIVILIZATION_MAYA'     Text='Noj Peten'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_NOJPETEN_XSCX_CIVILIZATION_MAYA'     Text='Noj Peten'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_UXMAL_XSCX_CIVILIZATION_MAYA'     Text='Óoxmáal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CALAKMUL_XSCX_CIVILIZATION_MAYA'     Text='Ox Te’ Tuun'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_OXKINTOK_XSCX_CIVILIZATION_MAYA'     Text='Oxkintok'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_COPAN_XSCX_CIVILIZATION_MAYA'     Text='Oxwitik'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CARACOL_XSCX_CIVILIZATION_MAYA'     Text='Oxwitza’'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_YAXCHILAN_XSCX_CIVILIZATION_MAYA'     Text='Pa’ Chan'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TONINA_XSCX_CIVILIZATION_MAYA'     Text='Popo'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TEOTIHUACAN_XSCX_CIVILIZATION_MAYA'     Text='Puh'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_QUMARKAJ_XSCX_CIVILIZATION_MAYA'     Text='Q’umarkah'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_NARANJO_XSCX_CIVILIZATION_MAYA'     Text='Sa’aal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_SACUL_XSCX_CIVILIZATION_MAYA'     Text='Sakul'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_ZACULEU_XSCX_CIVILIZATION_MAYA'     Text='Saqulew'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_SAYAXCHE_XSCX_CIVILIZATION_MAYA'     Text='Sayaxché'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_UAXACTUN_XSCX_CIVILIZATION_MAYA'     Text='Siaan K’aan'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_MERIDA_MEXICO_XSCX_CIVILIZATION_MAYA'     Text='T’hó'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_DZIBILCHALTUN_XSCX_CIVILIZATION_MAYA'     Text='Ts’iibil Cháaltun'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TURKEYTOWN_XSCX_CIVILIZATION_MAYA'     Text='Úulum'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_WAJXAKLAJUN_XSCX_CIVILIZATION_MAYA'     Text='Wajxaklajun'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_EL_PERU_XSCX_CIVILIZATION_MAYA'     Text='Waka’'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_PLAYA_DEL_CARMEN_XSCX_CIVILIZATION_MAYA'     Text='Xaman Ha'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_HUEHUETENANGO_XSCX_CIVILIZATION_MAYA'     Text='Xinabajul'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TIBURON_XSCX_CIVILIZATION_MAYA'     Text='Xoc'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_XPUJIL_XSCX_CIVILIZATION_MAYA'     Text='Xpuhil'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_XTAMPAK_XSCX_CIVILIZATION_MAYA'     Text='Xtampak'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TIKAL_XSCX_CIVILIZATION_MAYA'     Text='Yax Mutal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_YAXHA_XSCX_CIVILIZATION_MAYA'     Text='Yaxa’'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_PIEDRAS_NEGRAS_MAYA_XSCX_CIVILIZATION_MAYA'     Text='Yo’k’ib’'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_TULUM_XSCX_CIVILIZATION_MAYA'     Text='Zama'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_ALTUN_HA_XSCX_CIVILIZATION_MAYA'     Text='Haltun Ha'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_NAKBE_XSCX_CIVILIZATION_MAYA'     Text='Nakbe'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_XUNANTUNICH_XSCX_CIVILIZATION_MAYA'     Text='Xunaantuunich'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_UXUL_XSCX_CIVILIZATION_MAYA'     Text='Uxul'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_MERIDA_MEXICO_XSCX_CIVILIZATION_MAYA'     Text='T’hó'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_UCANAL_XSCX_CIVILIZATION_MAYA'     Text='K’anwitznal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_IZAMAL_XSCX_CIVILIZATION_MAYA'     Text='Itzmal'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_XTAMPAK_XSCX_CIVILIZATION_MAYA'     Text='Xtampak'     Language='en_US'     />
+<Replace Tag='LOC_ROSETTA_CHINKULTIC_XSCX_CIVILIZATION_MAYA'     Text='Chinkultik'     Language='en_US'     />
+
+<Replace Tag='LOC_ROSETTA_TONGEREN_XSCX_CIVILIZATION_SUK_GAUL' Text='Atuatuca' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ADRIANOPLE' Text='Adrianople' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TREBIZOND' Text='Trebizond' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ATTALEIA' Text='Attaleia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_COLOSSAE_XSCX_CIVILIZATION_BYZANTIUM' Text='Chonai' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARCADIOPOLIS' Text='Arcadiopolis' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHANDAX' Text='Chandax' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SEBASTEIA' Text='Sebasteia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LYKANDOS' Text='Lykandos' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KOLONEIA' Text='Koloneia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LEUKOSIA' Text='Leukosia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DOROSTOLON' Text='Dorostolon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CEPHALONIA' Text='Cephalonia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DERZENE' Text='Derzene' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TEPHRIKE' Text='Tephrike' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARTZE' Text='Artze' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TURSI' Text='Tursi' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DOLICHE' Text='Doliche' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ACILISENE' Text='Acilisene' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WIENNA' Text='Wienna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_UXELLODUNON' Text='Uxellodunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_SAMAROBRIWA' Text='Samarobriwa' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CONDATE' Text='Condate' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ARGENTORATE' Text='Argentorate' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAGACON' Text='Bagacon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BIBRAX' Text='Bibrax' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_MELEDUNON' Text='Meledunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DECETIA' Text='Decetia' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DIWODURON' Text='Diwoduron' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AREGENUA' Text='Aregenua' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TURICON' Text='Turicon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_NEMETOCENNA' Text='Nemetocenna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TARWANNA' Text='Tarwanna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_EBRODUNON' Text='Ebrodunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_RODONNA' Text='Rodonna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DUROTINCON' Text='Durotincon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LAUSODUNON' Text='Lausodunon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LAPURDO' Text='Lapurdo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_INGENA' Text='Ingena' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_GESORIACON' Text='Gesoriacon' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ECOLISNA' Text='Ecolisna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ELIBERRIS' Text='Eliberris' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DARIORITON' Text='Darioriton' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CORBILO' Text='Corbilo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CORIALLO' Text='Coriallo' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BRIOWERA' Text='Briowera' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALAUNA' Text='Alauna' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ALBIGA' Text='Albiga' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_WASIO' Text='Wasio' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BETARRA' Text='Betarra' Language='en_US' />
+
+<Replace Tag='LOC_ROSETTA_GANZHOU' Text='Ganzhou' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BIANLIANG' Text='Bianliang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LONGXING' Text='Longxing' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HELIN' Text='Helin' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_FENGYUAN' Text='Fengyuan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_ZHONGQING' Text='Zhongqing' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HENANFU' Text='Henan-fu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_JIANCHANG' Text='Jianchang' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LONG_UYEN' Text='Long Uyên' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CAU_LAU' Text='Câu Lậu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LUY_LAU' Text='Luy Lâu' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_PHONG_KHE' Text='Phong Khê' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_AN_DINH' Text='An Định' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TU_PHO' Text='Tư Phố' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CU_PHONG' Text='Cư Phong' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_HAM_HOAN' Text='Hàm Hoan' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAY_QUYEN' Text='Tây Quyển' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TY_ANH' Text='Tỷ Ảnh' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CUU_DUC' Text='Cửu Đức' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHU_NGO' Text='Chu Ngô' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_LO_DUNG' Text='Lô Dung' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TUONG_LAM' Text='Tượng Lâm' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VU_NINH' Text='Vũ Ninh' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_TAN_XUONG' Text='Tân Xương' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VONG_HAI' Text='Vọng Hải' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VU_DINH' Text='Vũ Định' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_CHU_DIEN' Text='Chu Diên' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_BAC_DAI' Text='Bắc Đái' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VO_BIEN' Text='Vô Biên' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_VO_THIET' Text='Vô Thiết' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_DU_PHAT' Text='Dư Phát' Language='en_US' />
+<Replace Tag='LOC_ROSETTA_KE_TU' Text='Kê Từ' Language='en_US' />
+
+	</LocalizedText>
+</GameData>
